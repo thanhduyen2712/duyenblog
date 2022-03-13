@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thanh Duyen Blog</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Thanh Duyen Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Nights</title>
+      <link>https://example.com/blog/first-blog/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/first-blog/</guid>
+      <description>Hey, once upon a younger year
+When all our shadows disappeared
+The animals inside came out to play
+Hey, when face to face with all our fears
+Learned our lessons through the tears
+Made memories we knew would never fade
+One day my father—he told me,
+&amp;ldquo;Son, don&amp;rsquo;t let it slip away&amp;rdquo;
+He took me in his arms, I heard him say,
+&amp;ldquo;When you get older
+Your wild life will live for younger days</description>
+    </item>
+    
+  </channel>
+</rss>
